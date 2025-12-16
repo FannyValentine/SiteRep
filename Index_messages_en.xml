@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano48_title"><![CDATA[1]]></data>
+  <data name="en_spotpoint81_tooltip"><![CDATA[Маяк]]></data>
+  <data name="en_spotpoint88_tooltip"><![CDATA[Детска площадка]]></data>
+
+
+  <data name="en_pano49_title"><![CDATA[2]]></data>
+  <data name="en_spotpoint83_tooltip"><![CDATA[Стелла]]></data>
+  <data name="en_spotpoint87_tooltip"><![CDATA[Стелла]]></data>
+
+
+  <data name="en_pano50_title"><![CDATA[3]]></data>
+  <data name="en_spotpoint85_tooltip"><![CDATA[Детская плошадка]]></data>
+
+
+
+
+
+
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_controlBar_dockedThumbnailsprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="en_controlBar_dockedThumbnailsnextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="en_controlBar_dockedThumbnailszoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_dockedThumbnailsdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_dockedThumbnailshideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+
+
+
+  <data name="en_pano48_description"><![CDATA[<font size="2"><span style="font-family: 'Times New Roman'; "><div><font size="2"><span style="font-family: 'Times New Roman'; "><b><i><u>СТЕЛЛА</u></i></b></span></font></div><div><font size="2"><span style="font-family: 'Times New Roman'; "><br></span></font></div>Свой нынешний облик набережнаяпруда стала приобретать в 2021 году по проекту активистов Совета молодежи </span><span style="font-family: 'Times New Roman'; ">Омутнинского</span><span style="font-family: 'Times New Roman'; ">металлургического завода «Заводной Омутнинск» (Всероссийский конкурс «Малыйгород, большая история»). До этого на набережной размещалась лодочная станция,тир, пляжная зона. А ещё лодочные гаражи и место для стирки ковров и паласов.Так было. Сейчас набережная преобразилась: «оделась» в красивую брусчаткупешеходная зона, были установлены детский игровой городок, различныеарт-объекты, надпись «Мы любим наш город».</span></font>]]></data>
+
+
+
+  <data name="en_pano49_description"><![CDATA[<font face="'times new roman', serif" size="2"><span style="color: black; "><div><b><i><u>МАЯК</u></i></b></div><div><font face="'times new roman', serif" size="2"><span style="color: black; "><br></span></font></div>Памятник </span><span style="color: black; ">рабочему«Слава труду», </span><span style="color: black; ">воздвигнут </span><span style="color: black; ">молодымикомсомольцами 29 октября 1968 года в честь 50-летия Ленинского комсомола, вчесть трудовых и ратных дел молодежи района. Памятник представляет собоймонолитную фигуру юноши с серпом и молотом, устремленной ввысь ракетой. Этотобелиск – дань уважения комсомолу, боевой и трудовой славе советской молодежи.От памятника берет начало улица Комсомольская (бывшая Соборная).<br></span><span style="color: black; "><span style="mso-tab-count:1">&nbsp; </span>Маяк </span><span style="color: black; ">украсилнабережную в 2011 году. Семиметровое сооружение изготовил коллективремонтно-энергетического цеха </span><span style="color: black; ">Омутнинского</span><span style="color: black; ">металлургического завода. Он сразу стал достопримечательностью города далназвание детской библиотеке.</span></font><span style="font-size:22.0pt;font-family:&amp;quot;Calibri Light&amp;quot;;mso-ascii-font-family:&amp;quot;Calibri Light&amp;quot;;mso-fareast-font-family:+mj-ea;mso-bidi-font-family:+mj-cs;mso-ascii-theme-font:major-latin;mso-fareast-theme-font:major-fareast;mso-bidi-theme-font:major-bidi;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:ru;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"><br></span>]]></data>
+
+
+
+  <data name="en_pano50_description"><![CDATA[<font size="2" face="'times new roman', serif"><span style="font-family: 'Times New Roman'; "><b><i><u>СТЕЛЛА</u></i></b></span><span style="color: black; "><div><font size="2" face="'times new roman', serif"><span style="color: black; "><br></span></font></div>Свой нынешний облик набережнаяпруда стала приобретать в 2021 году по проекту активистов Совета молодежи </span><span style="color: black; ">Омутнинского</span><span style="color: black; ">металлургического завода «Заводной Омутнинск» (Всероссийский конкурс «Малыйгород, большая история»). До этого на набережной размещалась лодочная станция,тир, пляжная зона. А ещё лодочные гаражи и место для стирки ковров и паласов.Так было. Сейчас набережная преобразилась: «оделась» в красивую брусчаткупешеходная зона, были установлены детский игровой городок, различныеарт-объекты, надпись «Мы любим наш город».</span></font>]]></data>
+
+
+</krpano>
